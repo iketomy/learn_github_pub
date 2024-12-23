@@ -6,3 +6,4 @@
 # 見出し 6 (Pull Request 練習 PRレビューで見出し 6を追加しろとの指摘を受けての追加)
 # test secret s0adf982dasjf0w0239532q920i-iasdfsjf0jd9jw-20qea-gdfjb8r0ut-ejaosdfjasdfpu
 push test 1
+push test 2
